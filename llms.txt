@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Coquimbo
+
+> Geotechnical engineering services in Coquimbo, Chile.
+
+## Services
+- [Aislacion Sismica](https://coquimbo.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://coquimbo.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://coquimbo.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://coquimbo.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://coquimbo.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://coquimbo.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://coquimbo.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://coquimbo.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://coquimbo.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://coquimbo.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://coquimbo.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://coquimbo.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://coquimbo.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://coquimbo.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://coquimbo.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://coquimbo.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://coquimbo.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://coquimbo.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://coquimbo.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://coquimbo.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://coquimbo.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://coquimbo.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://coquimbo.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://coquimbo.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://coquimbo.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://coquimbo.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://coquimbo.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://coquimbo.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://coquimbo.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://coquimbo.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://coquimbo.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://coquimbo.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://coquimbo.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://coquimbo.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://coquimbo.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://coquimbo.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://coquimbo.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://coquimbo.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://coquimbo.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://coquimbo.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Coquimbo, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
